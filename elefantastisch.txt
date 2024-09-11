@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background-color:rgb(235,231,218)
+}
+h1{
+color.rgb(116,66,33)
+</style>
+</head>
+<body>
+<h1>Wilkommen zu meiner Kokosnuss website</h1>
+</body>
+</html>
